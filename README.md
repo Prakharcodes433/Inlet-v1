@@ -10,7 +10,7 @@ The goal of **Inlet-v1** is to provide a structured, accessible, and visually ap
 - **HTML5:** Semantic structure including `fieldset`, `label`, and `input` tags.
 - **CSS3:** Custom dark-mode color palette, Flexbox layout, and responsive input styling.
 
-## 📁 Project Structure
+## Project Structure
 - `index.html`: The core structure of the registration form.
 - `styles.css`: The styling engine that creates the "Inlet" dark-themed aesthetic.
 
