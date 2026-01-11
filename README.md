@@ -3,7 +3,7 @@
 
 Inlet-v1 is a sleek, dark-themed registration interface designed for a seamless user onboarding experience. This project demonstrates clean UI design principles using semantic HTML and custom CSS properties.
 
-## 🚀 Overview
+##  Overview
 The goal of **Inlet-v1** is to provide a structured, accessible, and visually appealing form that handles multiple data types, from basic text strings to file uploads.
 
 ## 🛠️ Tech Stack
