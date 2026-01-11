@@ -14,7 +14,7 @@ The goal of **Inlet-v1** is to provide a structured, accessible, and visually ap
 - `index.html`: The core structure of the registration form.
 - `styles.css`: The styling engine that creates the "Inlet" dark-themed aesthetic.
 
-## ⚙️ Features
+##  Features
 - **Responsive Design:** Works across mobile, tablet, and desktop.
 - **Form Validation:** Integrated HTML5 validation for emails and required fields.
 - **Custom UI:** Specialized styling for radio buttons and checkboxes.
